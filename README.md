@@ -26,8 +26,8 @@ Image Processing Toolbox  Version 24.2 (R2024b)
 -----------------------------------------------------------------------------------------
 MATLAB Version: (R2024b) 
 | MATLAB release | Operating system | Status |
-| R2023b | Windows 11 (64-bit) | Tested |
-| R2024a | macOS 14 (Apple Silicon) | Tested |
+| R2024b | Windows 11 (64-bit) | Tested |
+| R2024b | macOS 14 (Apple Silicon) | Tested |
 
 ### Required non-standard hardware
 
@@ -41,7 +41,7 @@ None. The code runs on a standard desktop or laptop computer. No GPU, cluster, o
 1. Download or clone this repository:
 
    ```bash
-   git clone <REPOSITORY-URL>          # FILL IN
+   git clone <https://github.com/doraliusy/Major-axis-fluorescence-intensity-analysis>        
    ```
 
    or download the ZIP archive and extract it.
@@ -194,11 +194,11 @@ load('myImage_rois.mat', 'roiMasks');
 
 Released under the **MIT Licence** (an [Open Source Initiative](https://opensource.org/licenses)–approved licence). See [`LICENSE`](LICENSE).
 
-**Code repository:** `<REPOSITORY-URL>` 
+**Code repository:** `<https://github.com/doraliusy/Major-axis-fluorescence-intensity-analysis>` 
 
 ## 7. Authors and contact
 
-This code was developed by **Dora `<Shiyue Liu>'.
+This code was developed by **Shiyue Liu.
 
 
 Questions about the code should be addressed to `<doraliusy@gmail.com>`.
