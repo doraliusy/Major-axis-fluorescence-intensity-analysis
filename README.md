@@ -1,6 +1,6 @@
 # Major-Axis Fluorescence Intensity Analysis
 
-**Code developed by Dora `<Shiyue Liu>`
+**Code Developed by Dora `<Shiyue Liu>`
 MATLAB code for measuring **width-averaged fluorescence intensity along the curved major axis** of elongated objects (e.g. organoids, spheroid chains, elongated cells) in a 2-D microscopy image.
 
 For each user-drawn region of interest (ROI), the software traces the object's medial axis, extends it to the object's true tips, and reports the mean image intensity over a cross-section perpendicular to that axis at every point along it. The output is a one-dimensional profile of intensity versus distance along the object.
